@@ -27,6 +27,7 @@ public class OlimpioMatteoClass {
 	public static void main(String[] args) {
 		OlimpioMatteoClass p=new OlimpioMatteoClass();
 		 p.Olimpiomet(8, 10);
+		 assertEquals(risatteso,risottenuto);
 		System.out.println("RISULTATO:"+p);
 	}
 }
