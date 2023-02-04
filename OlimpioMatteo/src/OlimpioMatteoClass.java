@@ -7,7 +7,7 @@
 public class OlimpioMatteoClass {
 	
 	
-	
+
 /**
  *<p>calcolo produttoria</p>
  * 
@@ -27,6 +27,6 @@ public class OlimpioMatteoClass {
 	public static void main(String[] args) {
 		OlimpioMatteoClass p=new OlimpioMatteoClass();
 		 p.Olimpiomet(8, 10);
-		System.out.println(p);
+		System.out.println("RISULTATO:"+p);
 	}
 }
